@@ -1,0 +1,1 @@
+Script to allow users to sign up and automatically be added as TestFlight Beta Testers for your app.
